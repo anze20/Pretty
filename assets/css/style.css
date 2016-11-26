@@ -1,0 +1,27 @@
+body{
+    font-family:'Arista';
+
+    }
+
+@font-face {
+font-family: 'Arista';
+font-style: normal;
+font-weight: normal;
+src: local('Arista'), url('Arista.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Arista Light';
+font-style: normal;
+font-weight: normal;
+src: local('Arista Light'), url('Arista light.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Arista ExtraFilled';
+font-style: normal;
+font-weight: normal;
+src: local('Arista ExtraFilled'), url('Arista ExtraFilled.woff') format('woff');
+}
